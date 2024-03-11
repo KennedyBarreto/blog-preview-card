@@ -103,7 +103,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   border-radius: 20px;
-  padding: 1rem;
+  padding: 1.5rem;
   filter: drop-shadow(8px 8px 0px #000000);
   border: solid 1px black;
 }
@@ -119,16 +119,18 @@ body {
   font-size: 14px;
   border-radius: 5px;
   background-color: hsl(47, 88%, 63%);
-  max-width: 24%;
-  height: 29px;
+  max-width: 5.25rem;
+  height: 1.8rem;
   text-align: center;
-  line-height: 29px;
+  line-height: 1.8rem;
+  margin-top: 1.5rem;
 }
 
 .date {
   font-size: 14px;
   text-align: left;
   color: hsl(0, 0%, 7%);
+  font-weight: 500;
 }
 
 .text {
@@ -136,7 +138,7 @@ body {
 }
 
 .text h1 {
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -146,19 +148,19 @@ body {
 }
 
 .text p {
-  font-size: 16px;
+  font-size: 1rem;
   color: hsl(0, 0%, 50%);
 }
 
 .user {
-  height: 32px;
-  width: 129px;
+  height: 2rem;
+  width: 8rem;
   text-align: left;
-  line-height: 32px;
+  line-height: 2rem;
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-top: 25px;
+  margin-top: 2.5rem;
 }
 .user p {
   font-size: 14px;
@@ -166,6 +168,6 @@ body {
 }
 
 .user img {
-  width: 32px;
-  height: 32px;
+  width: 2rem;
+  height: 2rem;
 }
