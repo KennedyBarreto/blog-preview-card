@@ -87,3 +87,85 @@ textarea:not([rows]) {
 :target {
   scroll-margin-block: 5ex;
 }
+
+html,
+body {
+  font-family: "Figtree", sans-serif;
+  min-height: 100vh;
+  background-color: hsl(47, 88%, 63%);
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+.container {
+  max-width: 22rem;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  border-radius: 20px;
+  padding: 1rem;
+  filter: drop-shadow(8px 8px 0px #000000);
+  border: solid 1px black;
+}
+
+.container img {
+  display: block;
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.tag {
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: hsl(47, 88%, 63%);
+  max-width: 24%;
+  height: 29px;
+  text-align: center;
+  line-height: 29px;
+}
+
+.date {
+  font-size: 14px;
+  text-align: left;
+  color: hsl(0, 0%, 7%);
+}
+
+.text {
+  text-align: left;
+}
+
+.text h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text h1:hover {
+  cursor: pointer;
+  color: hsl(47, 88%, 63%);
+}
+
+.text p {
+  font-size: 16px;
+  color: hsl(0, 0%, 50%);
+}
+
+.user {
+  height: 32px;
+  width: 129px;
+  text-align: left;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 25px;
+}
+.user p {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.user img {
+  width: 32px;
+  height: 32px;
+}
