@@ -2,7 +2,7 @@
 
 [Inglês 🇬🇧](README.md)/[Português 🇧🇷](README.pt-br.md)
 
-Esta é uma solução para o [desafio do componente QR code na Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Os desafios da Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [desafio do componente de Blog na Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Os desafios da Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 ## Índice
 
@@ -14,7 +14,7 @@ Esta é uma solução para o [desafio do componente QR code na Frontend Mentor](
 
 ## Visão geral
 
-Componente QR Code simples feito para o Desafio Frontend Mentor
+Componente de Blog simples feito para o Desafio Frontend Mentor
 
 ### Captura de tela
 
